@@ -21,14 +21,14 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0223_000.yaml, hash: 'sha256:7590a5f86fdaf126a2eff83bc049f4f525f1a68b9566dc85c99665505e9bce86'}
+  - {seq: 0, filename: KR6q0223_000.yaml, hash: 'sha256:0d4fe23ff28e4a8f0be81ac0f3246a873c0f4beb9ac18a788673181680a47dba'}
   - {seq: 1, filename: KR6q0223_001.yaml, hash: 'sha256:7599b0b6a8128eac757e21711609cff2dcf8f728673af2b2177f16f039e78b9f'}
   - {seq: 2, filename: KR6q0223_002.yaml, hash: 'sha256:e2819200979ccec9925afc0b269773cd56b3b2fa502c07469e453f2790c08e5f'}
   - {seq: 3, filename: KR6q0223_003.yaml, hash: 'sha256:78d4eb4e9366db9fe7c3bb8402aa4b8621abc57f741ae139525a95d678d18074'}
   - {seq: 4, filename: KR6q0223_004.yaml, hash: 'sha256:3dd362fb26fead4cefbf47dfc2358783b0373e83737972c9f5ff16b734dfea5a'}
   - {seq: 5, filename: KR6q0223_005.yaml, hash: 'sha256:ff7855867245e69f8da3c3afcff11a2795138c8a07da82426d6cd26c29d306a6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0223_000.markers.yaml, hash: 'sha256:3fdcdc0aec98b4b62facdf68565b0ebcfb4a53356024a83204362f13a33c3255'}
+  - {seq: 0, role: markers, filename: assets/KR6q0223_000.markers.yaml, hash: 'sha256:cdcc8b6d9dc66293c5657d785d6c00eaba39b6743fb764b51b052deac2fc91f2'}
   - {seq: 1, role: markers, filename: assets/KR6q0223_001.markers.yaml, hash: 'sha256:cc703f8484b552b406440cf82b5ce3f8019d7492c1eaac1ccef980fad11ee598'}
   - {seq: 2, role: markers, filename: assets/KR6q0223_002.markers.yaml, hash: 'sha256:62f481f663b183a4c76176403d1860cf2d80d4844d5e2534c9816623af9c9b31'}
   - {seq: 3, role: markers, filename: assets/KR6q0223_003.markers.yaml, hash: 'sha256:40ca4456b5db84313fee69d0e8fe6036d1e4c027d807af6c8fab9c0df6bc001f'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0223_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0223_J_000-mulu-2
     span:
-    - front
+    - body
     - 652
     - 652
   label: 目錄
@@ -2265,7 +2265,7 @@ table_of_contents:
   label: 為鐵橈比丘舉火
   type: mulu
   level: 1
-hash: sha256:5c37380f5b15c25a0ffafcf2c1a645a2677cf47157dff6b2747b99aa175658f9
+hash: sha256:f2e34b1483b2ff2ca056920221e9e87328cb3a9580b74f45e22a63abde1ce870
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

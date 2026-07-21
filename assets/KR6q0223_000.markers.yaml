@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6q0223/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6q0223_J_000-0475a, 'n': 0475a, ed: J, source_xml_id: J35.B326.0475a}
   - {type: line-break, offset: 0, content: '', id: KR6q0223_J_000-0475a01, ed: J, 'n': 0475a01}
   - {type: variant, offset: 0, length: 1, content: 木, 嘉興: 本}
@@ -267,6 +267,5 @@ markers:
   - {type: line-break, offset: 702, content: '', id: KR6q0223_J_000-0475c30, ed: J, 'n': 0475c30}
   - {type: page-break, offset: 702, content: '', id: KR6q0223_J_000-0476a, 'n': 0476a, ed: J, source_xml_id: J35.B326.0476a}
   - {type: line-break, offset: 702, content: '', id: KR6q0223_J_000-0476a01, ed: J, 'n': 0476a01}
-  body: []
   back: []
-hash: sha256:3fdcdc0aec98b4b62facdf68565b0ebcfb4a53356024a83204362f13a33c3255
+hash: sha256:cdcc8b6d9dc66293c5657d785d6c00eaba39b6743fb764b51b052deac2fc91f2
